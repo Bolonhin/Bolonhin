@@ -213,22 +213,23 @@ My studies include areas such as:
 </div>
 
 ---
-
-## 🎮 Contribution Activity
+---
 
 <div align="center">
 
-![Pac-Man contribution graph](https://raw.githubusercontent.com/Bolonhin/Bolonhin/output/pacman.svg)
+### Building embedded software beyond code.
+
+**Architecture • Reliability • Integration • Engineering**
 
 </div>
 
 ---
 
-## 📡 CAN Bus Animation
+## 🐍 Contribution Activity
 
 <div align="center">
 
-![CAN Bus Animation](./assets/can-bus-animation.svg)
+![Snake animation](https://github.com/Bolonhin/Bolonhin/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
