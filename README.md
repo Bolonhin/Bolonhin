@@ -123,3 +123,23 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bolonhin&lay
 ### Building embedded software beyond code — architecture, reliability and engineering.
 
 </div>
+
+---
+
+## 🎮 Contribution Activity
+
+<div align="center">
+
+![Pac-Man contribution graph](https://raw.githubusercontent.com/Bolonhin/Bolonhin/output/pacman.svg)
+
+</div>
+
+---
+
+## 📡 CAN Bus Animation
+
+<div align="center">
+
+![CAN Bus Animation](./assets/can-bus-animation.svg)
+
+</div>
