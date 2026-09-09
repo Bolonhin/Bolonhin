@@ -176,16 +176,6 @@ My studies include areas such as:
 
 ---
 
-## 📊 GitHub
-<div align="center">
-
-![GitHub Stats](./profile/stats.svg)
-
-![Top Languages](./profile/top-langs.svg)
-
-</div>
----
-
 ## 📫 Connect with me
 
 <div align="center">
