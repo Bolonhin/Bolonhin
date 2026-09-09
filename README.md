@@ -177,15 +177,13 @@ My studies include areas such as:
 ---
 
 ## 📊 GitHub
-
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Bolonhin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+![GitHub Stats](./profile/stats.svg)
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bolonhin&layout=compact&langs_count=8&theme=tokyonight"/>
+![Top Languages](./profile/top-langs.svg)
 
 </div>
-
 ---
 
 ## 📫 Connect with me
@@ -213,7 +211,6 @@ My studies include areas such as:
 </div>
 
 ---
----
 
 <div align="center">
 
@@ -225,7 +222,7 @@ My studies include areas such as:
 
 ---
 
-## 🐍 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
